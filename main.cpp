@@ -2,7 +2,7 @@
 #include <cmath>
 using namespace std;
 int main() {
-  //Question-1
+//Question-1
 string name;
 cout<<"What is your name?"<<endl;
 cin>>name;
